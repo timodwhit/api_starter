@@ -1,0 +1,40 @@
+name: API Starter
+type: profile
+description: 'Build an API First site and extend off this starter.'
+version: VERSION
+core: 8.x
+dependencies:
+  - node
+  - block
+  - field
+  - field_ui
+  - dblog
+  - rest
+  - jsonapi
+  - system
+  - help
+  - user
+  - toolbar
+  - breakpoint
+  - history
+  - block
+  - breakpoint
+  - filter
+  - ckeditor
+  - config
+  - datetime
+  - editor
+  - help
+  - image
+  - options
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - toolbar
+  - field_ui
+  - file
+  - automated_cron
+  - workflows
+themes:
+  - seven
+
